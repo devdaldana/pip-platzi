@@ -1,1 +1,1 @@
-print("Hi David\n" * 3)
+print('Hola desde mi maquina')
